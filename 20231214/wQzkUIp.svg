@@ -1,0 +1,9 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="16" height="16" fill="none">
+  <ns0:defs>
+    <ns0:linearGradient gradientUnits="userSpaceOnUse" x1="250.972" y1="32.55" x2="250.972" y2="466.733" id="gradient-0" gradientTransform="matrix(1.097688, 0, 0, 1.094062, 0, 0.000001)">
+      <ns0:stop offset="0" style="stop-color: rgba(0, 86, 179, 1)" />
+      <ns0:stop offset="1" style="stop-color: rgba(0, 43, 89, 1)" />
+    </ns0:linearGradient>
+  </ns0:defs>
+  <ns0:rect x="194.589" y="35.612" width="161.798" height="475.023" style="paint-order: fill markers; stroke-dashoffset: 3px; stroke-miterlimit: 23; fill: rgb(255, 255, 255); stroke: url(#gradient-0); stroke-width: 20px;" rx="57.188" ry="57.188" transform="matrix(0, -1, 1, 0, -21.650801, 523.430664)" />
+</ns0:svg>
